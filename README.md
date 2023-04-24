@@ -1,7 +1,7 @@
 # Challange-DB2---Springboot
 Repositório feito para gerenciar a entrega do challange referente a matéria Digital Business - Java Springboot
 
-###Solução:
+### Solução:
 - Nossa solução cria valor para o público-alvo ao oferecer uma maneira rápida, fácil e personalizada de selecionar o melhor software de gestão para o seu negócio. Aqui estão alguns exemplos de como nossa plataforma de assistente virtual pode ser valiosa:
 - Economia de tempo: Selecionar o software de gestão certo pode levar horas ou até mesmo dias de pesquisa. Com nosso assistente virtual, o processo pode ser concluído em questão de minutos. Nossa plataforma economiza tempo valioso para os empreendedores e gestores de negócios, permitindo que eles se concentrem em outras áreas importantes do seu trabalho.
 - Redução de erros: Selecionar o software de gestão errado pode levar a muitos problemas, como falta de eficiência, erros e perda de dinheiro. Nosso assistente virtual ajuda a garantir que o software escolhido seja adequado às necessidades da empresa, reduzindo a possibilidade de erros e aumentando a eficiência.
@@ -10,7 +10,7 @@ Repositório feito para gerenciar a entrega do challange referente a matéria Di
 
 Em resumo, nossa solução cria valor para o público-alvo oferecendo uma maneira rápida, fácil e personalizada de selecionar o software de gestão certo, economizando tempo, reduzindo erros, melhorando a tomada de decisão e aumentando a produtividade da empresa.
 
-###Sobre o funcionamento e os benefícios da solução:
+### Sobre o funcionamento e os benefícios da solução:
 - A nossa solução é um assistente virtual baseado em inteligência artificial que ajuda os usuários a escolher o melhor software de gestão para seus negócios. O assistente virtual funciona em uma plataforma fácil de usar, que faz perguntas específicas sobre as necessidades da empresa, o que ajuda a identificar as soluções de software mais adequadas. Aqui estão alguns dos benefícios da nossa solução:
 - Personalização: A nossa solução é personalizada para cada usuário e sua empresa, o que garante que as sugestões de software sejam específicas e adequadas às necessidades do negócio.
 - Eficiência: Nosso assistente virtual simplifica o processo de seleção de software de gestão e economiza tempo para os usuários. Em vez de passar horas pesquisando várias opções, os usuários podem ter uma solução em questão de minutos.
